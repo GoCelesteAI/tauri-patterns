@@ -3,7 +3,7 @@
 Per-episode demo apps for the **Tauri Patterns for Production** YouTube series by Codegiz. Each episode is its own self-contained repo.
 
 - **Watch the series:** https://www.youtube.com/playlist?list=PLOeWRYj1QznVJfg6w0_l8M5WUXP7Nf32x
-- **Read on Codegiz:** https://codegiz.com/blog/series/tauri-patterns
+- **Read on Codegiz:** https://www.codegiz.com/blog/series/tauri-patterns/
 
 ## Episodes
 
